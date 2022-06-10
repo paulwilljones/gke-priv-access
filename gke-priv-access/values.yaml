@@ -1,0 +1,8 @@
+iamPolicy:
+  member: group:support@jetstack.io
+  role: roles/container.admin
+cloudIdentityGroup:
+  customerId: ""
+  groupKey: support@jetstack.io
+cloudIdentityMembership:
+  memberKey: paul.jones@jetstack.io
